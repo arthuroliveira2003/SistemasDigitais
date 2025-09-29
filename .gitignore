@@ -1,0 +1,6 @@
+# Ignora tudo dentro da pasta out
+out/*
+
+# Exceto o arquivo .gitkeep
+!out/.gitkeep
+
